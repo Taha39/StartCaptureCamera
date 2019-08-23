@@ -3,8 +3,8 @@
 
 //#include "pch.h"
 //#include <iostream>
-#include "D:\Taha\study\vs2017\TestProject\CamResolutionDShow\CamResolutionDShow.h"
-#include "D:\Taha\study\vs2017\TestProject\CamCaptureOpenCV\CamCaptureOpenCV.h"
+#include "CamResolutionDShow.h"
+#include "CamCaptureOpenCV.h"
 
 using namespace std;
 
